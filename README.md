@@ -20,7 +20,7 @@ document.write("<script src='../js/heart.js'></script>");
 ```
 
 3.vue项目中引入
-js文件放在/srv/assets文件夹下，在main.js文件中引入
+js文件放在/src/assets文件夹下，在main.js文件中引入
 ```javascript
 import './assets/words.js';
 ```

@@ -1,5 +1,5 @@
 # MouseClickEffect
-鼠标点击效果：心形或文字展示，适配jq页面和vue页面。
+鼠标点击心形或文字展示效果，适配jq页面和vue页面。
 
 心形效果：
 ![image](https://img-blog.csdnimg.cn/20201012223804526.png)
